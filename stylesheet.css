@@ -1,0 +1,25 @@
+h1{
+  color: #ff0000;
+  font-size: 10px;
+  font-family: sans-serif;
+  background-color: #ddd;
+}
+p{
+  color: #0000ff;
+  font-size: 40px;
+  font-family:"Lucida Grande";
+  background-color: #ffd800;
+  width: 800px;
+  height: 50px;
+  background-color: #9de8ea;
+}
+img{
+  width: 500px;
+  height: 300px;
+}
+li{
+  color: blue;
+}
+.selected{
+  color: red;
+}
